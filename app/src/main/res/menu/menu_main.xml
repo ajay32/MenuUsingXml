@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+
+
+    <item android:id="@+id/red" android:title="RED" android:icon="@drawable/ii"></item>
+    <item android:id="@+id/green" android:title="GREEN"></item>
+    <item android:id="@+id/yello" android:title="YELLOW"></item>
+    <item android:id="@+id/gray" android:title="GRAY"></item>
+    <item android:id="@+id/white" android:title="WHITE"></item>
+    <item android:id="@+id/close" android:title="CLOSE"></item>
+
+</menu>
